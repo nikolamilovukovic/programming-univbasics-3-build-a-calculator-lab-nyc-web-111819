@@ -11,13 +11,13 @@ def subtraction(num1, num2)
 end
 
 def division(num1, num2)
-  quotient(num2 / num1)
+  quotient = (num2 / num1)
   quotient
   
 end
 
 def multiplication(num1, num2)
-  product(num1 * num2)
+  product = (num1 * num2)
   product
 
 end
