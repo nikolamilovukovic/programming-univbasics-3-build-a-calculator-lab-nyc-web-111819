@@ -23,7 +23,7 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
-  Math.sin(num1, num2)
+  Math.sin(num2, num1)
   
 end
 
